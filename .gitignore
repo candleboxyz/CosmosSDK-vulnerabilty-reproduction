@@ -1,0 +1,10 @@
+.DS_Store
+
+**/*.json*
+!json_template/*.json
+
+*.zip
+cli*/
+scaffolds/
+
+*.env

@@ -1,0 +1,22 @@
+{
+  "group_policy_address": "cosmos......",
+  "messages": [
+    {
+      "@type": "/cosmos.bank.v1beta1.MsgSend",
+      "from_address": "cosmos......",
+      "to_address": "cosmos...",
+      "amount": [
+        {
+          "denom": "stake",
+          "amount": "10"
+        }
+      ]
+    }
+  ],
+  "metadata": "",
+  "title": "crash",
+  "summary": "crash",
+  "proposers": [
+    "cosmos..."
+  ]
+}
